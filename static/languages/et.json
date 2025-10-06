@@ -1,13 +1,11 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Kui suur on eluasemeomandi osakaal ELis?",
+  "subtitle": "2024. aastal omas keskmiselt 68,4% ELi elanikkonnast oma kodu.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "Leedu andmed on esialgsed.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "legend1": "Andmed pole saadaval",
+  "tooltipExtraInfoLabel": "Kliki siia"
 }
